@@ -17,4 +17,3 @@ O software tem como objetivo facilitar o acesso a um acervo de livros didáticos
 
 Para utilizá-lo corretamente, deve-se digitar nos campos as determinadas informações: título da obra, autor da obra, editora da obra, gênero da obra e data de publicação da obra.
 
-## hewwww
