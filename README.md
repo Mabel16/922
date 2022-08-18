@@ -1,5 +1,4 @@
 # 922
- # ATIVIDADE
 
 ## Equipe
 
